@@ -3,6 +3,7 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
+
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice recording audio with DJI Mic Mini's and then trimming blank audio if necessary from the beginning and ends of the audio files. To participate fully please do the following **before the workshop**:
 
