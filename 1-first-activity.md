@@ -1,96 +1,148 @@
 ---
 layout: default
-title: 1-First Activity
+title: 1-Recording Game Audio 
 nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/tinkercad-keychain-01.png" style="float:right;width:200px;height:200px;" alt="tinkercad logo"> 
 
-# Keychain Activity 
+### Recording High Quality Audio with an iPhone or iPad & DJI Mic Mini
+<img src="images/1-audio-record-logo.png" style="float:right;width:300px;" alt="decorative">
 
-If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+Good source audio makes a huge difference in the quality and usability of language learning games. Recording with a microphone like the DJI Mic Mini, instead of your phone's built-in microphone, keeps the speaker's distance from the microphone constant for every letter or word, so all of your audio files come out at a similar volume with far less room echo. This matters most when you are recording with Elders and language keepers, where you may only get one session.
 
-1. If you haven’t already, please go to [the TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself. If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
-<img src="images/tinkercad-keychain-02b.png" style="float:right;width:200px" alt="drop down menu with basic shapes, text and numbers."> 
+By the end of this activity you will have one audio file per letter, named and trimmed, ready to use in a soundboard like the one in the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}, or any other language learning game. This same technique also works well for recording words or short sentences for language learning games.
 
-2. Click **Create new design**. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. 
+## What you need to have before you start:
 
-3. On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. <img src="images/tinkercad-keychain-03b.png" style="float:right;width:400px" alt="visual example"> 
+1. A charged DJI Mic Mini transmitter (TX) and receiver (RX)
+2. An iPhone (plus the Lightning to USB-C cable if your iPhone has a Lightning port)
+3. The free [DJI Mimo app](https://apps.apple.com/app/dji-mimo/id1431720653){:target="_blank"}
+4. The built-in iPhone Voice Memos app
+5. A quiet room
+6. A digital or printed list of the alphabet you are recording
 
-4. Drag and drop all the individual letters from a name or word you want to use onto the workplane. 
+**If you get stuck, please ask your instructor for assistance or look at the Quick troubleshooting section at the bottom of this page!**
 
-    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
-    <img src="images/tinkercad-keychain-04.gif">
-    </div>
+Step 1
+{: .label .label-step}
 
-5. Select all the letters and then click on the **Align Button**.
+- Open the charging case. The microphone transmitter (TX) and receiver (RX) **power on automatically** when you lift them out, and they come pre-linked from the factory.
+- If a unit is off, **press and hold its power button for two seconds**. Check that the status LED on the receiver is **solid green**, which means the TX and RX are linked and ready.
+- NOTE: Do not connect the receiver to you phone until after the receiver has connected to the microphone transmitter.
+{: .step}
 
-6. Then click on the black handle on the bottom left of the text to align the text along the bottom.
-    ![Image representation of alignment](images/tinkercad-keychain-05.png)
+![DJI Mic Mini charging case, open, with callouts on: 1 the transmitters, 2 the receiver, 3 the receiver status LED](images/audio-01.png)
 
-7. Now move the letter closer together so that they overlap a significant amount so that when your keychain is printed it will stay together when some stress is put on it. See my example below:
-    ![Image example](images/tinkercad-keychain-06.png)
+Step 2
+{: .label .label-step}
 
-    <button onclick="toggle('gif2')">Show/Hide Animation</button>
-    <div id="gif2">
-    <img src="images/tinkercad-keychain-07.gif">
-    </div>
+<img src="images/audio-02.png" style="float:right;width:300px;">
+- Make sure both the DJI Mic Mini receiver and microphone are turned on **before** plugging in your iPhone.
+- Connect the DJI Mic Mini receiver to your phone by plugging the USB-C cable directly into the **charging port on the bottom of your iPhone**, and then to the receiver itself (NOTE: On an iPhone with a Lightning port, use a lighting to USB-C cable and attach the  receiver first). 
+- Once connected, your phone treats the receiver as an **external microphone**, so apps like Voice Memos use it automatically instead of the built-in mic.
+- The green LED below the 1 or 2 on the receiver confirms it is linked to the microphone transmitter.
+{: .step}
 
-8. <img src="images/tinkercad-keychain-08.png" style="float:right;width:200px" alt="Clicking on the white dot and writing in A.B values"> To make the lettering a bit more interesting we are going to raise every other letter by 2mm from the current 4mm.  To start doing this click on the first letter, and then (A) click on the **white dot** near the middle of the letter (which will then turn red). (B) click on the **4.00** and change the number to “6” and then press the enter key, and the first letter will stand higher than all the rest. Raise every second letter so that your name looks something similar to this:
-    ![Image example of raised letters](images/tinkercad-keychain-09.png)
+Step 3
+{: .label .label-step}
 
-    <button onclick="toggle('gif3')">Show/Hide Animation</button>
-    <div id="gif3">
-    <img src="images/tinkercad-keychain-10.gif">
-    </div>
+- Clip the microphone transmitter to the speaker's collar or shirt, about **15 to 20 cm (a hand-span) below their chin**, with the mic capsule pointing up toward their mouth.
+- Attach the furry windscreen if you are anywhere near a fan, vent, or open window, and keep the transmitter clear of jewelry, lanyards, zippers, and hair that could brush against it between letters.
+- **Noise cancelling:** pressing the microphone transmitter's power button once toggles noise cancelling, and the TX LED turns solid yellow when it is on. In a quiet room, leave it **off** for the most natural vowel and consonant sounds. Only use it if you cannot avoid steady background noise like a ventilation hum.
 
-9. <img src="images/tinkercad-keychain-11.png" style="float:right;width:220px;height:220px;" alt="Drop down menu"> Now we’ll group all the letters together by selecting them all, and then clicking on the **Group** button. All the letters will change to the same colour and you can now select all the letters as one object.
-    ![Image example after grouping](images/tinkercad-keychain-12.png)
+{: .step}
 
-    <button onclick="toggle('gif4')">Show/Hide Animation</button>
-    <div id="gif4">
-    <img src="images/tinkercad-keychain-13.gif">
-    </div>
+Step 4
+{: .label .label-step}
 
-10. <img src="images/tinkercad-keychain-14.png" style="float:right;width:250px" alt="Group icon"> The last thing we need to do is to add a loop to your text so you can more easily hang your new design on your key ring. Start by clicking on **Text and Numbers** in the right panel, and then select **Basic Shapes**. This will display basic geometric shapes for us again.  Select the orange cylinder and drag and drop it into the workplane.
+<img src="images/audio-04.PNG" style="float:right;width:150px;">
 
-    <button onclick="toggle('gif5')">Show/Hide Animation</button>
-    <div id="gif5">
-    <img src="images/tinkercad-keychain-15.gif">
-    </div>
+- With the receiver plugged in, open the **DJI Mimo** app on your iPhone. The first time you connect, allow any permission prompts and let the app finish a firmware update if one is offered.
+- Once the receiver is connected, a pop-up will appear saying "DJI Mic Mini detected." Tap **Go to Settings** to open the device page.
+- On the device page, you'll see the connected transmitter, its battery level, and a live audio level meter.
+- You will only use Mimo to **check levels**. NOTE: The actual recording happens in Voice Memos in Step 6.
+{: .step} 
 
-11. Once the cylinder is in the workspace we need to resize. Start by selecting the cylinder, and then (A) clicking on **white handle** at the bottom right which will turn it red. (B) Now click on the **20.00** and change it to **10**. (C) Click on the other **20.00** and change it to **10** as well.  (D) Next select the **white dot** at the top of the cylinder (it will turn red), and then (E) change the **20.00** to **6** and press enter.<br>
-    ![Cylinder with measurements of A,B,C](images/tinkercad-keychain-16.png)![Cylinder with measurements of D,E](images/tinkercad-keychain-17.png)
+Step 5
+{: .label .label-step}
 
-    <button onclick="toggle('gif6')">Show/Hide Animation</button>
-    <div id="gif6">
-    <img src="images/tinkercad-keychain-18.gif">
-    </div>
+- Gain is how strongly the receiver amplifies the microphone signal. Set it once, properly, and every letter you record afterwards will be at a healthy volume. <img src="images/audio-05.PNG" style="float:right;width:250px;">
+- On the Mimo device page, find the green **live level meter**, which moves as the speaker talks. Have the speaker say a few practice letters **at the exact volume and distance they will use for the real recording**, including the loudest letters, since open vowels like "A" tend to peak highest.
+- Watch where the meter peaks, then turn the **physical gain dial** on the receiver until the loudest letters peak at roughly **two-thirds to three-quarters of the meter**. Peaks should **never hit the red zone**, which means clipping and permanent distortion.
+![The DJI Physical Dial](images/audio-03.gif)
+- **Too hot vs. too quiet:** a slightly quiet recording can be boosted later with no harm, but a clipped (red-lined) recording is ruined and cannot be fixed. When in doubt, aim a little low.
+{: .step}
 
-12. <img src="images/tinkercad-keychain-19.png" style="float:right;width:200px;height:250px;" alt="grey stripped cylinder"> Next we need to make a hole in the middle of the cylinder, so we’ll grab a grey striped cylinder and drop it on the workplane.  Now select the bottom right “handle” and change both the width and depth dimensions from **20.00** to **6**.
+**Note on headphone monitoring:** the Mic Mini receiver has no headphone jack, so you monitor visually with the Mimo meter, then confirm by ear with the playback test in Step 6. If you need live headphone monitoring for future projects, that feature is on DJI's higher-end receivers.
 
-13. <img src="images/tinkercad-keychain-20.png" style="float:right;width:220px;height:200px;" alt="Group icon">Drag and drop the grey cylinder into the middle of the orange cylinder.  Now select both cylinders and the text and then press the **Group** button on the top toolbar. 
+Step 6
+{: .label .label-step}
+- Leave the receiver plugged in and open the **Voice Memos** app. 
+- Tap the **red record button**, have the speaker say two or three letters, then tap stop.
+- Play it back through headphones plugged into or paired with the **phone**, and listen for clear speech, no crackle or distortion on loud letters, and low room echo.
+- If anything sounds off, go back to **Mimo in Step 5** and adjust the gain before recording for real.
+- **Verify the right mic is in use:** gently scratch the transmitter capsule during your test. If you hear the scratch loudly on playback, the DJI mic is active. If tapping the phone itself is what comes through, the receiver is not connected properly, so unplug it and reseat it.
+{: .step}
 
-    <button onclick="toggle('gif7')">Show/Hide Animation</button>
-    <div id="gif7">
-    <img src="images/tinkercad-keychain-21.gif">
-    </div>
 
-14. Lastly, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
-    ![Final product example](images/tinkercad-keychain-22.png)
+Step 7
+{: .label .label-step}
+- Record each letter as its **own memo** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. The waveform should show **one clear burst** (the letter) with flat, quiet sections on either side. <img src="images/audio-07.jpg" style="float:right;width:300px;">
+- Work through the alphabet **in order** from your printed list, ticking off each letter as you go, so nothing gets missed and the memo list matches the alphabet.
+- If a take is flubbed, don't agonize over it—just stop, delete or ignore it, and record the letter again.
+- Keep the speaker's **volume and distance identical** for every letter, and resist leaning in for quiet letters.
+- For letters with glottal stops or other sounds that are easy to under-articulate, consider recording **two takes** so a language keeper can choose the better one later. The short, quiet sections before and after each letter also give you room to trim cleanly in Step 9.
+{: .step}
 
-<script>  
 
-    function toggle(input) {
-        var x = document.getElementById(input);
-        if (x.style.display === "none") {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-    }
-</script>
+Step 8
+{: .label .label-step}
 
-[NEXT STEP: Cellphone Keychain Stand](2-keychain-stand.html){: .btn .btn-blue }
+- In the Voice Memos list, **tap a recording** to expand it, then **tap its title** ("New Recording 7") to make it editable.
+- Type the letter as the new name, using **lowercase** to match the filenames your soundboard expects, for example `a`, `b`, `c`.
+- For letters with diacritics or glottal stops, use a plain-text name that matches your app's file mapping, for example `c_glottal` rather than `c'`, since apostrophes cause trouble in filenames and URLs. This matches the glottal stop prompt in Step 7 of the [Alphabet Soundboard activity](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){:target="_blank"}.
+- Give each recording a descriptive name **immediately after each recording session**, while you can still match memos to letters by order and by ear.
+{: .step}
+
+![Renaming a memo in Voice Memos](images/audio-10.gif)
+
+Step 9
+{: .label .label-step}
+<img src="images/audio-09.jpg" style="float:right;width:300px;">
+- A soundboard feels snappy when audio starts almost instantly after a tap. Trimming each memo to leave only about a quarter-second of silence before the letter makes a big difference.
+- Tap a memo, tap the **three-dot menu (...)**, then choose **Edit Recording**. Tap the **crop/trim icon** in the top corner, and yellow **trim handles** appear at each end of the waveform.
+- Drag the handles inward so a sliver of silence remains before and after the letter, then tap **Trim** to keep only the selected region, and tap **Save**. Play it back once to confirm the letter is not cut off at the start. 
+{: .step}
+
+Step 10
+{: .label .label-step}
+
+- In the memo list, tap a recording, tap the **three-dot menu (...)**, then tap **Share**. To move several at once, tap **Edit** in the list, select multiple memos, then share them together.
+- Choose **AirDrop** to send straight to a Mac, or **Save to Files** and then upload from iCloud Drive or Google Drive on any computer.
+- Voice Memos exports **.m4a** files, so a memo named `a` arrives as `a.m4a`.
+- Modern browsers play m4a just fine, so the simplest path is to tell your soundboard prompt that the files are named wich `.m4a` extensions.
+
+## Working with community language keepers?
+Before publishing recordings of any Indigenous language please remember to:
+- Ask for permission to record
+- Confirm who the audio recordings can be shared with (e.g. community members only, public, researchers)
+- Confirm spellings
+- Confirm pronunciations
+- Keep the untrimmed originals archived so nothing is lost
+
+## Quick troubleshooting
+
+| Problem | Likely cause and fix |
+| ------- | -------------------- |
+| Voice Memos records the phone's built-in mic | Receiver not seated in the port. Unplug, remove the phone case, reseat, and redo the scratch test from Step 6. |
+| Levels barely move in Mimo | Gain too low, or the TX is off or unlinked. Raise the gain slider and check for a solid green LED on the receiver. |
+| Loud letters crackle or distort | Clipping: peaks hit the red. Lower the gain in Mimo and re-record any distorted letters. |
+| Hiss or roomy echo | Mic too far from the mouth, or a noisy room. Recheck the 15 to 20 cm placement and turn off fans and HVAC if possible. |
+| Recordings vary in volume letter to letter | Speaker distance or volume drifted. Re-set placement and ask for a consistent, relaxed speaking voice. |
+| Mimo shows no device page | Update the Mimo app and the Mic Mini firmware, then unplug and reconnect the receiver. |
+
+Congratulations on recording a full set of alphabet audio files! With a folder of named, trimmed letter files, you are ready to build or update a soundboard. Just mention the file extension you ended up with (.m4a or .mp3) in your prompt so the generated code matches your filenames.
+
+[NEXT STEP: Alphabet Sound Board](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){: .btn .btn-blue }
+
