@@ -144,5 +144,5 @@ Before publishing recordings of any Indigenous language please remember to:
 
 Congratulations on recording a full set of alphabet audio files! With a folder of named, trimmed letter files, you are ready to build or update a soundboard. Just mention the file extension you ended up with (.m4a or .mp3) in your prompt so the generated code matches your filenames.
 
-[NEXT STEP: Alphabet Sound Board](https://uviclibraries.github.io/genai-vibe-code-intro/1-soundboard.html){: .btn .btn-blue }
+[NEXT STEP: Interviewing Elders](#){: .btn .btn-blue }
 
