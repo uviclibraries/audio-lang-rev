@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-### Recording High Quality Audio with an iPhone or iPad & DJI Mic Mini
+# Recording High Quality Audio with an iPhone or iPad & DJI Mic Mini
 <img src="images/1-audio-record-logo.png" style="float:right;width:300px;" alt="decorative">
 
 Good source audio makes a huge difference in the quality and usability of language learning games. Recording with a microphone like the DJI Mic Mini, instead of your phone's built-in microphone, keeps the speaker's distance from the microphone constant for every letter or word, so all of your audio files come out at a similar volume with far less room echo. This matters most when you are recording with Elders and language keepers, where you may only get one session.
@@ -85,7 +85,6 @@ Step 6
 - **Verify the right mic is in use:** gently scratch the transmitter capsule during your test. If you hear the scratch loudly on playback, the DJI mic is active. If tapping the phone itself is what comes through, the receiver is not connected properly, so unplug it and reseat it.
 {: .step}
 
-
 Step 7
 {: .label .label-step}
 - Record each letter as its **own memo** so you don't have to split one long file later. For each letter, follow the same rhythm: **start recording, wait about half a second, say the letter, wait another half second, then tap the square stop button**. The waveform should show **one clear burst** (the letter) with flat, quiet sections on either side. <img src="images/audio-07.jpg" style="float:right;width:300px;">
@@ -94,7 +93,6 @@ Step 7
 - Keep the speaker's **volume and distance identical** for every letter, and resist leaning in for quiet letters.
 - For letters with glottal stops or other sounds that are easy to under-articulate, consider recording **two takes** so a language keeper can choose the better one later. The short, quiet sections before and after each letter also give you room to trim cleanly in Step 9.
 {: .step}
-
 
 Step 8
 {: .label .label-step}
