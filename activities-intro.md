@@ -10,5 +10,4 @@ nav_order: 3
 - Resize Your Laptop Screen for Workshop Handouts (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**UPDATE**
-[NEXT STEP: Recording Game Audio](game-audio.html){: .btn .btn-blue }
+[NEXT STEP: Recording Audio for Language Games](game-audio.html){: .btn .btn-blue }
