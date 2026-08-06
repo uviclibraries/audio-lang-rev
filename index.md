@@ -19,13 +19,13 @@ If you are participating in an person workshops, the DSC provides sets of Mic Mi
 
 At the end of this workshop, you will be able to:
 
-1. **Audio Recording Equipment Setup**: Will correctly connect the DJI Mic Mini hardware to an iOS device or Android and verify the active connection using the capsule scratch test with 100% accuracy.
-2. **Gain Calibration**: Using the DJI Mimo app, participants will adjust the physical gain dial on the receiver so that practice voice peaks consistently remain within two-thirds to three-quarters of the visual audio meter, avoiding clipping (red zone) across all spoken letters.
-3. **Audio Recording**: Following the provided workflow, participants will record a distinct audio memo for each letter of a target alphabet, maintaining a 15–20 cm mic distance and leaving a half-second silent buffer before and after each sound.
-4. **File Naming & Formatting**: Rename each recorded audio file in Voice Memos using plain-text, lowercase, web-safe naming conventions (e.g., c_glottal instead of apostrophes or special characters) that correspond to their alphabet list.
-5. **Post-Recording Trimming & Export**: Using the built-in iOS Voice Memos edit tool, participants will trim audio files and export the complete set of .m4a files via AirDrop or cloud storage for integration into a language learning application.
-6. **Pre-Elder Interview & Informed Consent Protocols**: Participants will conduct a pre-session interview with the speaker to document permissions, confirm preferred spellings and cultural names, establishing clear protocols regarding who may access, listen to, or publish the audio files.
-7. **Monitoring & Managing Audio Recording**: During longer storytelling sessions, participants will monitor audio levels to maintain quality audio without clipping, adjusting mic placement or receiver gain to accommodate natural volume variations in spoken dialogue.
-8. **Archival File Packaging & Metadata**: By the end of the activity, participants will trim, export the primary recording alongside an unedited master copy, labeling all files using web-safe, standardized file-naming conventions and a text metadata record.
+1. **Audio Recording Equipment Setup**: Will correctly connect the DJI Mic Mini hardware to an iOS device or Android.
+2. **Gain Calibration**: Using the DJI Mimo app, participants will adjust the physical gain dial on the receiver so that voice peaks consistently remain within two-thirds to three-quarters of the visual audio meter, avoiding clipping (red zone).
+3. **Audio Recording**: Will record a distinct audio file for each letter of a target alphabet, leaving a half-second silent buffer before and after each sound.
+4. **File Naming & Formatting**: Rename each recorded audio file in Voice Memos using lowercase, web-safe naming conventions (e.g. not using any special characters).
+5. **Post-Recording Trimming & Export**: Using the built-in iOS Voice Memos edit tool, participants will trim audio files and export the complete set of .m4a files.
+6. **Pre-Elder Interview & Informed Consent Protocols**: Will conduct a pre-session interview with the Elder to document permissions, and establishing clear protocols regarding who may access, listen to, or publish the audio files.
+7. **Monitoring & Managing Audio Recording**: Will monitor audio levels to maintain quality audio without clipping, adjusting mic placement or receiver gain to accommodate natural volume variations.
+8. **Archival File Packaging & Metadata**: Participants will trim, export the primary recording alongside an unedited master copy, with metadata.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
