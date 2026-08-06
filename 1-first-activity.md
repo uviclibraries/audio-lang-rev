@@ -56,7 +56,7 @@ Step 3
 Step 4
 {: .label .label-step}
 
-<img src="images/audio-04.PNG" style="float:right;width:150px;">
+<img src="images/audio-04.png" style="float:right;width:150px;">
 
 - With the receiver plugged in, open the **DJI Mimo** app on your iPhone. The first time you connect, allow any permission prompts and let the app finish a firmware update if one is offered.
 - Once the receiver is connected, a pop-up will appear saying "DJI Mic Mini detected." Tap **Go to Settings** to open the device page.
@@ -67,7 +67,7 @@ Step 4
 Step 5
 {: .label .label-step}
 
-- Gain is how strongly the receiver amplifies the microphone signal. Set it once, properly, and every letter you record afterwards will be at a healthy volume. <img src="images/audio-05.PNG" style="float:right;width:250px;">
+- Gain is how strongly the receiver amplifies the microphone signal. Set it once, properly, and every letter you record afterwards will be at a healthy volume. <img src="images/audio-05.png" style="float:right;width:250px;">
 - On the Mimo device page, find the green **live level meter**, which moves as the speaker talks. Have the speaker say a few practice letters **at the exact volume and distance they will use for the real recording**, including the loudest letters, since open vowels like "A" tend to peak highest.
 - Watch where the meter peaks, then turn the **physical gain dial** on the receiver until the loudest letters peak at roughly **two-thirds to three-quarters of the meter**. Peaks should **never hit the red zone**, which means clipping and permanent distortion.
 ![The DJI Physical Dial](images/audio-03.gif)
@@ -142,7 +142,7 @@ Before publishing recordings of any Indigenous language please remember to:
 | Recordings vary in volume letter to letter | Speaker distance or volume drifted. Re-set placement and ask for a consistent, relaxed speaking voice. |
 | Mimo shows no device page | Update the Mimo app and the Mic Mini firmware, then unplug and reconnect the receiver. |
 
-Congratulations on recording a full set of alphabet audio files! With a folder of named, trimmed letter files, you are ready to build or update a soundboard. Just mention the file extension you ended up with (.m4a or .mp3) in your prompt so the generated code matches your filenames.
+Congratulations on recording a full set of alphabet audio files! With a folder of named, trimmed letter files, you are ready to build or update a soundboard. Just make sure that the file extension you ended up with (.m4a or .mp3) matches the filenames in your web application.
 
 [NEXT STEP: Interviewing Elders](#){: .btn .btn-blue }
 
